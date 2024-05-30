@@ -16,9 +16,7 @@ In this proof of concept, I utilized YOLO and supervision to detect and track pl
 
 
 ##
-<video width="640" height="480" controls>
-  <source src="output.mp4" type="video/mp4">
-</video>
+![output.gif](output.gif)
 
 [Watch the full video on Google Drive](https://drive.google.com/file/d/1rraIt3mPzbKbcUZY_n2Z8vp3P7VXPOso/view?usp=sharing)
 
