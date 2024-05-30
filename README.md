@@ -20,3 +20,9 @@ In this proof of concept, I utilized YOLO and supervision to detect and track pl
 
 [Watch the full video on Google Drive](https://drive.google.com/file/d/1rraIt3mPzbKbcUZY_n2Z8vp3P7VXPOso/view?usp=sharing)
 
+##
+Action detection
+
+A small [dataset](https://drive.google.com/drive/folders/1FkHvWvoCTsgOIxALBM5KbQw-8_lqQ5eV?usp=sharing) was annotated using [VGG image annotator - VIA](https://www.robots.ox.ac.uk/~vgg/software/via/). actions include goal,heading,passes, tackles and throw. Here is another open [dataset](https://github.com/FootballAnalysis/footballanalysis/tree/main/Dataset/Soccer%20Event%20Dataset%20(Image)).
+
+
